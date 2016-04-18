@@ -1,0 +1,20 @@
+•	keyboard1.tes
+#
+
+•	keyboard2.tes
+aaaabbbbbbbbbbbbbbbbbbbbbbbbbbb#
+
+•	keyboard3.tes
+aa#
+
+•	keyboard4.tes
+~#
+
+•	keyboard5.tes
+aa@#
+
+•	keyboard6.tes
+aa@b#
+
+•	keyboard7.tes
+aaaabbbb#
