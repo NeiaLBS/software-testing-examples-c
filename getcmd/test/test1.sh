@@ -1,0 +1,1 @@
+./getcmd a > output/test1
